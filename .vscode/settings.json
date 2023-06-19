@@ -1,11 +1,12 @@
 {
-    "eidtor.tabSize": 2,
+    "editor.tabSize": 2,
+    "files.eol": "\n",
     "eslint.validate": [
         "html",
         "javascript",
-        "javascriptreact",
+        "javascriptreact"       
     ],
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true 
+        "source.fixAll.eslint": true
     }
 }
